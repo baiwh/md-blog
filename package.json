@@ -1,0 +1,23 @@
+{
+  "name": "md-blog",
+  "version": "1.0.0",
+  "description": "markdown blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baiwh/md-blog.git"
+  },
+  "author": "baiwh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baiwh/md-blog/issues"
+  },
+  "homepage": "https://github.com/baiwh/md-blog#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
