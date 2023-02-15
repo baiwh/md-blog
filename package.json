@@ -4,7 +4,13 @@
   "description": "markdown blog",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "server": "nodemon app.js",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "concurrently \"npm run dev\" \"npm run server\"",
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
   },
   "repository": {
     "type": "git",
@@ -17,7 +23,14 @@
   },
   "homepage": "https://github.com/baiwh/md-blog#readme",
   "dependencies": {
+    "concurrently": "^7.6.0",
     "express": "^4.18.2",
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.20",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.0.0",
+    "vitest": "^0.28.5"
   }
 }
