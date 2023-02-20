@@ -9,8 +9,7 @@ app.all('*', function (req, res, next) {
 })
 
 app.get('/api/lala', (req, res) => {
-  const urlHost = req.headers.host
-  console.log(`corscors`, req.headers)
+  // const urlHost = req.headers.host
   // res.send(`lala:试试看`)
   res.json({ msg: 'lala:试试看' })
 })
