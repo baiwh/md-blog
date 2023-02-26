@@ -30,7 +30,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style scoped lang="less">
 .nav-box {
   border-bottom: 1px solid #dcdcdc;
   display: flex;
@@ -38,17 +38,22 @@ export default {
   align-items: center;
 }
 
-.nav-title {
-  color: cornflowerblue;
-}
-
 .nav-item {
   height: 100%;
   min-width: 150px;
+
+  .nav-title {
+    color: cornflowerblue;
+  }
 }
+
 .nav-item:hover {
   /* background: linear-gradient(#fff 80%, rgba(100, 148, 237, 0.2)) 20%; */
-  transform: scale(1.3, 1.3);
+  // transform: scale(1.3, 1.3);
   cursor: pointer;
+
+  .nav-title {
+    color: rgba(100, 148, 237, 0.408);
+  }
 }
 </style>
