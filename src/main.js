@@ -17,10 +17,10 @@ const routes = [
     path: '/blog-type',
     component: BlogType,
     children: [
-      { path: '/blog-detail', component: BlogDetail },
+      { path: '/blog-detail/:id', component: BlogDetail },
     ]
   },
-  { path: '/blog-list', component: BlogList },
+  { path: '/blog-list/:id', component: BlogList },
 ]
 
 const router = VueRouter.createRouter({

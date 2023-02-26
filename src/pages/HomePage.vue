@@ -14,9 +14,9 @@ export default {
     }
   },
   mounted() {
-    http.getRequest('/lala').then((data) => {
-      this.requestInfo = data.msg
-    })
+    // http.getRequest('/lala').then((data) => {
+    //   this.requestInfo = data.msg
+    // })
   },
   methods: {
 
