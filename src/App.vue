@@ -9,21 +9,29 @@
 </template>
 
 <script>
+import http from './utils/request'
+import { store } from './store'
 import NavigationList from './components/NavigationList.vue';
+
 export default {
   components: {
     NavigationList,
   },
   data() {
     return {
+      store,
       navigationList: [
         { name: '首页', page: '/', },
-        { name: 'blog', page: '/blog-type' },
+        { name: 'blog', page: '/blog-type', list: 'blogTypeList' },
         { name: 'About Me', page: '/about-me' },
-      ]
+      ],
     }
   },
   mounted() {
+    http.getRequest('/lala').then((data) => {
+      this.requestInfo = data.msg
+      this.store.setRequestInfo(data.msg)
+    })
   },
   methods: {
     onPush(value) {
@@ -40,6 +48,6 @@ export default {
 
 .footer-box {
   border-top: 1px solid #dcdcdc;
-  height: 70px;
+  height: 60px;
 }
 </style>

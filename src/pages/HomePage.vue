@@ -1,22 +1,19 @@
 <template>
   <div>
-    hello：{{ requestInfo }}
+    store:{{ store.requestInfo }}
   </div>
 </template>
 
 <script>
-import http from './../utils/request'
+import { store } from './../store'
+
 export default {
-  name: 'HomePage',
   data() {
     return {
-      requestInfo: ''
+      store,
     }
   },
   mounted() {
-    // http.getRequest('/lala').then((data) => {
-    //   this.requestInfo = data.msg
-    // })
   },
   methods: {
 

@@ -8,11 +8,16 @@
 </template>
 
 <script>
+import { store } from './../store'
+
 export default {
-  props: ['navigationList'],
+  props: {
+    navigationList: Array,
+  },
   emits: ['on-push'],
   data() {
     return {
+      store,
     }
   },
   mounted() {
@@ -29,7 +34,7 @@ export default {
 .nav-box {
   border-bottom: 1px solid #dcdcdc;
   display: flex;
-  height: 70px;
+  height: 60px;
   align-items: center;
 }
 
@@ -41,9 +46,9 @@ export default {
   height: 100%;
   min-width: 150px;
 }
-
 .nav-item:hover {
-  background: linear-gradient(#fff 80%, rgba(100, 148, 237, 0.2)) 20%;
+  /* background: linear-gradient(#fff 80%, rgba(100, 148, 237, 0.2)) 20%; */
+  transform: scale(1.3, 1.3);
   cursor: pointer;
 }
 </style>
