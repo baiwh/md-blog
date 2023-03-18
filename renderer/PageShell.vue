@@ -2,7 +2,7 @@
   <div class="layout">
     <div class="nav-box">
       <Link class="nav-item one-item-center" v-for="(item, index) in navigationList" :key="index" :href="item.page">
-      <h3 class="nav-title">{{ item.name }}</h3>
+        <h3 class="nav-title">{{ item.name }}</h3>
       </Link>
     </div>
 
@@ -19,7 +19,7 @@
 </template>
 
 <script setup>
-import Link from './Link.vue'
+import Link from '../components/Link.vue'
 import './../src/assets/main.css'
 
 const navigationList = [
