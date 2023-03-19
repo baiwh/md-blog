@@ -1,11 +1,8 @@
 <template>
-  <Link href="/blogType/es6">
-    <h3>es6</h3>
-  </Link>
-
-  <Link href="/blogType/es6/Promise（es6笔记）">
-    <h3>/blogType/es6/Promise（es6笔记）</h3>
-  </Link>
+  <div class="blog-type-content">
+    <Link href="/blogType/es6" :title="'es6'" flexType="flex-start"/>
+    <Link href="/blogType/es6/Promise（es6笔记）" :title="'Promise（es6笔记）'" flexType="flex-start"/>
+  </div>
 </template>
 
 <script>
@@ -23,4 +20,8 @@ export default {
 }
 </script>
 
-<style scoped></style>
+<style scoped>
+.blog-type-content{
+  height: 100px;
+}
+</style>
