@@ -19,7 +19,7 @@
       </div>
     </div>
 
-    <footer class="footer-box one-item-center">
+    <footer class="footer-box">
       <a href="https://beian.miit.gov.cn/" target="_blank">
         ICP 备111号
       </a>
@@ -49,15 +49,18 @@ const navigationList = [
 .layout {
   min-height: 100vh;
   display: flex;
-  padding: 0 5vw;
   flex-direction: column;
 }
 
 .nav-box {
   border-bottom: 1px solid #dcdcdc;
+  position: fixed;
   display: flex;
-  height: 60px;
+  height: 50px;
+  width: 100vw;
   align-items: center;
+  background-color:#ffffff;
+  z-index: 100;
 
   .nav-item {
     height: 100%;
@@ -81,10 +84,10 @@ const navigationList = [
   flex: 1;
   display: flex;
   justify-content: flex-start;
-  margin: 30px 0 100px 0;
+  margin: 70px 0 100px 0;
 
   .content-box-slot {
-    width: 75vw;
+    width: 80vw;
     padding: 0 30px;
   }
 }
@@ -101,11 +104,12 @@ const navigationList = [
 
 .footer-box {
   border-top: 1px solid #dcdcdc;
-  height: 60px;
+  height: 50px;
   position: absolute;
   bottom: 0;
-  width: 80vw;
-
+  width: 100vw;
+  display: grid;
+  place-items: center;
   a:hover {
     /* background-color: hsla(160, 100%, 37%, 0.2); */
     background-color: rgba(100, 148, 237, 0.2);

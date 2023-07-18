@@ -1,19 +1,12 @@
 @import './base.css';
 
-* {
-  box-sizing: border-box;
-}
-
 body {
-  margin: 0;
-  font-family: sans-serif;
+  display: grid;
   place-items: center;
-  /* box-sizing: content-box; */
 }
 
 #app {
   display: flex;
-  padding: 0 5vw;
   flex-direction: column;
   width: 100%;
   min-height: 100vh;
@@ -27,16 +20,6 @@ a {
   padding: 0 10px;
 }
 
-.one-item-center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+@media (hover: hover) {}
 
-@media (hover: hover) {
-  
-}
-
-@media (min-width: 1024px) {
-
-}
+@media (min-width: 1024px) {}
