@@ -1,6 +1,7 @@
 <template>
   <div class="layout">
     <div class="nav-box">
+      <Link :href="'/'" class="home-img-a"> <img src="./logo.png" class="home-img"> </Link>
       <div class="nav-item" v-for="(item, index) in navigationList" :key="`nav_${index}`">
         <Link :href="item.page" :title="item.name" :isSelected="thisNav === item.page" />
       </div>
@@ -38,7 +39,6 @@ const thisNav = '/' + pageContext?.urlPathname?.split('/')[1]
 const thisBlogType = pageContext?.urlPathname?.split('/')[2] || blogType[0].typeName
 
 const navigationList = [
-  { name: '首页', page: '/', },
   { name: 'blog', page: '/blogType' },
   { name: 'About Me', page: '/aboutMe' },
 ]
@@ -61,6 +61,13 @@ const navigationList = [
   align-items: center;
   background-color:#ffffff;
   z-index: 100;
+  .home-img-a{
+    width: 70px;
+  }
+  .home-img{
+    height: 30px;
+    width: 30px;
+  }
 
   .nav-item {
     height: 100%;
