@@ -1,0 +1,15 @@
+[
+  {
+    "typeName": "es6",
+    "typeList": [
+      "Promise（es6笔记）"
+    ]
+  },
+  {
+    "typeName": "http",
+    "typeList": [
+      "http请求过程",
+      "http协议（和https）"
+    ]
+  }
+]
