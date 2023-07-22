@@ -10,13 +10,6 @@
     </div>
 
     <div class="content-box">
-      <div class="blog-type-nav" v-show="thisNav === '/blogType'">
-        <div class="blog-type-nav-item" v-for="(blogItem, blogIndex) in blogTypeNavList" :key="`blog_nav_${blogIndex}`">
-          <Link :href="`/blogType?type=${blogItem.typeName}`" :title="`${blogItem.typeName} (${blogItem.typeList.length})`"
-            :isSelected="thisBlogType === blogItem.typeName" flexType="flex-start" />
-        </div>
-      </div>
-
       <div class="content-box-slot">
         <slot />
       </div>
@@ -31,14 +24,12 @@
 </template>
 
 <script setup>
-import Link from '../components/Link.vue'
 import './../main.css'
+import Link from '../components/Link.vue'
 import { usePageContext } from './usePageContext'
-import blogTypeNavList from '../blogTypeNavList.json'
 
 const pageContext = usePageContext()
 const thisNav = '/' + pageContext?.urlPathname?.split('/')[1]
-const thisBlogType = pageContext?.urlParsed?.search?.type || blogTypeNavList[0].typeName
 
 const navigationList = [
   { name: 'blog', page: '/blogType' },
@@ -94,30 +85,15 @@ const navigationList = [
       }
     }
   }
-
-
-
 }
 
 .content-box {
   flex: 1;
-  display: flex;
-  justify-content: flex-start;
   margin: 70px 0 100px 0;
+  padding: 0 3vw;
 
   .content-box-slot {
-    width: 85vw;
-    padding: 0 30px;
-  }
-}
-
-.blog-type-nav {
-  width: 15vw;
-
-  .blog-type-nav-item {
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
+    width: 94vw;
   }
 }
 
