@@ -2,7 +2,7 @@
   <div class="visaCard">
     <div class="hotelBox">
       <button-group :btnData="cityList" :label="'cityName'" :onClickBtn="selectedCity" />
-      <img-group :imgList="filterHotel" :srcKey="'imageUrl'" :titleKey="'name'"/>
+      <img-group :imgList="filterHotel" :srcKey="'imageUrl'" :titleKey="'name'" :urlType="'hsbc'"/>
     </div>
   </div>
 </template>
@@ -21,7 +21,9 @@ export default {
       filterHotel: [],
     }
   },
-  mounted() { },
+  mounted() { 
+    // this.selectedCity(this.cityList[0])
+  },
   components: {
     ImgGroup,
     ButtonGroup,

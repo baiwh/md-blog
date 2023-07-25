@@ -1,0 +1,79 @@
+[
+  {
+    "hotelName": "\u676d\u5dde\u57ce\u4e2d\u9999\u683c\u91cc\u62c9\u5927\u9152\u5e97",
+    "productName": "\u8c6a\u534e\u5927\u5e8a\u623f",
+    "address": "\u957f\u5bff\u8def6\u53f7\u5ef6\u5b89\u8def\u5609\u91cc\u4e2d\u5fc3",
+    "thumb": "https:\/\/static-toplist-v3.oss-cn-shanghai.aliyuncs.com\/backend3\/merchant_img\/2021\/03\/15\/1544525132.jpeg",
+    "bed": "\u5927\u5e8a",
+    "breakfast": "\u65e0\u65e9",
+    "base_close": 0,
+    "mode": "800\u5143+1000\u79ef\u5206",
+    "id": "NEWhViA8Mw9ijQ4J7UpiX8VjyLtLo3jWvb"
+  },
+  {
+    "hotelName": "\u676d\u5dde\u67cf\u60a6\u9152\u5e97",
+    "productName": "\u67cf\u60a6\u5927\u5e8a\u623f",
+    "address": "\u94b1\u6c5f\u8def1366\u53f7",
+    "thumb": "http:\/\/static-toplist-v3.oss-cn-shanghai.aliyuncs.com\/backend3\/merchant_img\/2020\/07\/28\/1901073694.png",
+    "bed": "\u5927\u5e8a",
+    "breakfast": "\u65e0\u65e9",
+    "base_close": 0,
+    "mode": "800\u5143+1000\u79ef\u5206",
+    "id": "1RVcjiJ5WwgURn4G3Iwin4KEgNsGmy8Xpo"
+  },
+  {
+    "hotelName": "\u676d\u5dde\u4e5d\u91cc\u4e91\u677e\u5ea6\u5047\u9152\u5e97",
+    "productName": "\u96c5\u81f4\u623f",
+    "address": "\u7075\u9690\u8def18-8\u53f7",
+    "thumb": "https:\/\/static-toplist-v3.oss-cn-shanghai.aliyuncs.com\/backend3\/merchant_img\/2021\/08\/04\/1412594343.jpeg",
+    "bed": "\u5927\u5e8a",
+    "breakfast": "\u53cc\u65e9",
+    "base_close": 0,
+    "mode": "800\u5143+1000\u79ef\u5206",
+    "id": "m8qFBiPjgB4h9XBRNtRive1PdVSbmPLyWG"
+  },
+  {
+    "hotelName": "\u676d\u5dde\u897f\u6e56\u5e0c\u5c14\u987f\u5609\u60a6\u91cc\u9152\u5e97",
+    "productName": "\u5609\u60a6\u91cc\u8c6a\u534e\u5927\u5e8a\u623f",
+    "address": "\u56fd\u8d27\u8def2\u53f7",
+    "thumb": "https:\/\/static-toplist-v3.oss-cn-shanghai.aliyuncs.com\/backend3\/merchant_img\/2021\/03\/02\/1024176825.jpeg",
+    "bed": "\u5927\u5e8a",
+    "breakfast": "\u65e0\u65e9",
+    "base_close": 1,
+    "mode": "800\u5143+1000\u79ef\u5206",
+    "id": "v9dt3i04yw3sdwvBoIGi6Z90zGuprwYjP0"
+  },
+  {
+    "hotelName": "\u5929\u7c41\u4e4b\u68a6\u6e56\u5dde\u592a\u6e56\u6e29\u6cc9\u522b\u5885\u5ea6\u5047\u9152\u5e97",
+    "productName": "\u9732\u53f0\u522b\u5885\uff08\u5927\u5e8a\uff09",
+    "address": "\u592a\u6e56\u8def5858\u53f7",
+    "thumb": "https:\/\/static-toplist-v3.oss-cn-shanghai.aliyuncs.com\/backend3\/merchant_img\/2021\/02\/26\/1420067089.png",
+    "bed": "\u5927\u5e8a",
+    "breakfast": "\u53cc\u65e9",
+    "base_close": 1,
+    "mode": "800\u5143+1000\u79ef\u5206",
+    "id": "WgLcxi13Kp9UKnvzbTviyKgdwzsB59Ed0r"
+  },
+  {
+    "hotelName": "\u676d\u5dde\u5eb7\u83b1\u5fb7\u9152\u5e97",
+    "productName": "\u8c6a\u534e\u5ba2\u623f\u5927\u5e8a\u623f",
+    "address": "\u65b0\u4e1a\u8def228\u53f7T2",
+    "thumb": "http:\/\/static-toplist-v3.oss-cn-shanghai.aliyuncs.com\/backend3\/merchant_img\/2020\/07\/28\/1510554505.png",
+    "bed": "\u5927\u5e8a",
+    "breakfast": "\u53cc\u65e9",
+    "base_close": 0,
+    "mode": "800\u5143+1000\u79ef\u5206",
+    "id": "zYLIqiNBn3vumAg9KtNi1bMaK9h168RqE5"
+  },
+  {
+    "hotelName": "\u83ab\u5e72\u5c71\u91d1\u8302\u5929\u7c41\u4e4b\u68a6\u5ea6\u5047\u9152\u5e97",
+    "productName": "\u5929\u7c41\u5927\u5e8a\u623f",
+    "address": "\u83ab\u5e72\u5c71\u98ce\u666f\u533a\u5185114\u53f7",
+    "thumb": "http:\/\/static-toplist-v3.oss-cn-shanghai.aliyuncs.com\/backend3\/merchant_img\/2020\/07\/16\/2336202928.jpeg",
+    "bed": "\u5927\u5e8a",
+    "breakfast": "\u53cc\u65e9",
+    "base_close": 0,
+    "mode": "800\u5143+1000\u79ef\u5206",
+    "id": "eWAupiavLjyHVN1WRTZivYEP4rSoM0Z39a"
+  }
+]
