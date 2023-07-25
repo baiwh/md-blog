@@ -19,7 +19,7 @@ export default {
   methods: {
     searchName(item) {
       if (this.urlType === 'hsbc') {
-        window.open(`https://hotels.ctrip.com/hotels/${item.buProductId}.html`)
+        window.open(`https://hotels.ctrip.com/hotels/${item.buProductId}.html?checkin=2023-09-29&checkout=2023-09-30&adult=1&crn=1`)
       } else {
         window.open(`https://www.baidu.com/s?ie=UTF-8&wd=${item[this.titleKey]}`)
       }

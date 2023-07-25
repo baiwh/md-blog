@@ -176,14 +176,6 @@
     "categoryId": 0
   },
   {
-    "cityId": 17677,
-    "cityCode": "35738",
-    "cityNumber": "   ",
-    "cityName": "加贺市",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
     "cityId": 39394,
     "cityCode": "76460",
     "cityNumber": "   ",
@@ -240,14 +232,6 @@
     "categoryId": 0
   },
   {
-    "cityId": 592742,
-    "cityCode": "699769",
-    "cityNumber": "",
-    "cityName": "The Rocks",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
     "cityId": 357,
     "cityCode": "501",
     "cityNumber": "SYD",
@@ -264,82 +248,10 @@
     "categoryId": 0
   },
   {
-    "cityId": 507,
-    "cityCode": "722",
-    "cityNumber": "MAN",
-    "cityName": "曼彻斯特",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 512677,
-    "cityCode": "415278",
-    "cityNumber": "@",
-    "cityName": "威斯敏斯特城",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 512355,
-    "cityCode": "695987",
-    "cityNumber": "   ",
-    "cityName": "伦敦城",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
     "cityId": 2053,
     "cityCode": "4081",
     "cityNumber": "   ",
     "cityName": "塞班岛",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 10003,
-    "cityCode": "26848",
-    "cityNumber": "   ",
-    "cityName": "波士顿",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 510284,
-    "cityCode": "414443",
-    "cityNumber": "   ",
-    "cityName": "陶尔哈姆莱茨",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 254,
-    "cityCode": "347",
-    "cityNumber": "LAX",
-    "cityName": "洛杉矶",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 492,
-    "cityCode": "706",
-    "cityNumber": "EDI",
-    "cityName": "爱丁堡",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 592755,
-    "cityCode": "699561",
-    "cityNumber": "",
-    "cityName": "派蒙",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 592754,
-    "cityCode": "699412",
-    "cityNumber": "",
-    "cityName": "Millers Point",
     "classify": "city",
     "categoryId": 0
   },
@@ -352,42 +264,10 @@
     "categoryId": 0
   },
   {
-    "cityId": 347792,
-    "cityCode": "332542",
-    "cityNumber": "@",
-    "cityName": "普拉兰",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 52621,
-    "cityCode": "62234",
-    "cityNumber": "   ",
-    "cityName": "西好莱坞",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 393,
-    "cityCode": "549",
-    "cityNumber": "CHI",
-    "cityName": "芝加哥",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
     "cityId": 348021,
     "cityCode": "330968",
     "cityNumber": "@",
-    "cityName": "Main Beach",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 441,
-    "cityCode": "633",
-    "cityNumber": "NYC",
-    "cityName": "纽约",
+    "cityName": "黄金海岸",
     "classify": "city",
     "categoryId": 0
   },
@@ -440,14 +320,6 @@
     "categoryId": 0
   },
   {
-    "cityId": 40115,
-    "cityCode": "40795",
-    "cityNumber": "   ",
-    "cityName": "巴塞罗那",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
     "cityId": 166,
     "cityCode": "220",
     "cityNumber": "DXB",
@@ -464,42 +336,10 @@
     "categoryId": 0
   },
   {
-    "cityId": 352,
-    "cityCode": "495",
-    "cityNumber": "   ",
-    "cityName": "新德里",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 250,
-    "cityCode": "343",
-    "cityNumber": "ROM",
-    "cityName": "罗马",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 960,
-    "cityCode": "1369",
-    "cityNumber": "REP",
-    "cityName": "暹粒",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
     "cityId": 512,
     "cityCode": "728",
     "cityNumber": "CNS",
     "cityName": "凯恩斯",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 351036,
-    "cityCode": "324466",
-    "cityNumber": "@",
-    "cityName": "南岸",
     "classify": "city",
     "categoryId": 0
   },
@@ -520,26 +360,10 @@
     "categoryId": 0
   },
   {
-    "cityId": 57,
-    "cityCode": "62",
-    "cityNumber": "MKZ",
-    "cityName": "马六甲",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
     "cityId": 1202,
     "cityCode": "1777",
     "cityNumber": "NHA",
     "cityName": "芽庄",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 218,
-    "cityCode": "303",
-    "cityNumber": "PNH",
-    "cityName": "金边",
     "classify": "city",
     "categoryId": 0
   },
@@ -576,22 +400,6 @@
     "categoryId": 0
   },
   {
-    "cityId": 53131,
-    "cityCode": "93834",
-    "cityNumber": "@",
-    "cityName": "比佛利山",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 145,
-    "cityCode": "193",
-    "cityNumber": "BER",
-    "cityName": "柏林",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
     "cityId": 53883,
     "cityCode": "259802",
     "cityNumber": "   ",
@@ -608,74 +416,10 @@
     "categoryId": 0
   },
   {
-    "cityId": 267,
-    "cityCode": "363",
-    "cityNumber": "MUC",
-    "cityName": "慕尼黑",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 2932,
-    "cityCode": "6890",
-    "cityNumber": "HER",
-    "cityName": "赫拉克利翁",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 495,
-    "cityCode": "710",
-    "cityNumber": "ATH",
-    "cityName": "雅典",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 4214,
-    "cityCode": "10278",
-    "cityNumber": "   ",
-    "cityName": "小田原市",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 874,
-    "cityCode": "1231",
-    "cityNumber": "LIS",
-    "cityName": "里斯本",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 328,
-    "cityCode": "461",
-    "cityNumber": "YTO",
-    "cityName": "多伦多",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
     "cityId": 207,
     "cityCode": "286",
     "cityNumber": "HAN",
     "cityName": "河内",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 592747,
-    "cityCode": "697374",
-    "cityNumber": "",
-    "cityName": "East Melbourne",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 9544,
-    "cityCode": "26363",
-    "cityNumber": "   ",
-    "cityName": "华盛顿",
     "classify": "city",
     "categoryId": 0
   },
@@ -688,170 +432,10 @@
     "categoryId": 0
   },
   {
-    "cityId": 301,
-    "cityCode": "423",
-    "cityNumber": "   ",
-    "cityName": "神户",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 503,
-    "cityCode": "718",
-    "cityNumber": "RTM",
-    "cityName": "鹿特丹",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 307,
-    "cityCode": "434",
-    "cityNumber": "ZRH",
-    "cityName": "苏黎世",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 592748,
-    "cityCode": "697562",
-    "cityNumber": "",
-    "cityName": "South Wharf",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
     "cityId": 462,
     "cityCode": "666",
     "cityNumber": "GVA",
     "cityName": "日内瓦",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 350099,
-    "cityCode": "325314",
-    "cityNumber": "@",
-    "cityName": "East Perth",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 262,
-    "cityCode": "357",
-    "cityNumber": "MAD",
-    "cityName": "马德里",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 1723,
-    "cityCode": "3584",
-    "cityNumber": "   ",
-    "cityName": "塞萨洛尼基",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 946,
-    "cityCode": "1343",
-    "cityNumber": "KRK",
-    "cityName": "克拉科夫",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 38326,
-    "cityCode": "73051",
-    "cityNumber": "   ",
-    "cityName": "卢加诺",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 899,
-    "cityCode": "1262",
-    "cityNumber": "NAP",
-    "cityName": "那不勒斯",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 881,
-    "cityCode": "1240",
-    "cityNumber": "BLQ",
-    "cityName": "博洛尼亚",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 990,
-    "cityCode": "1399",
-    "cityNumber": "TPA",
-    "cityName": "坦帕",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 478,
-    "cityCode": "687",
-    "cityNumber": "FLR",
-    "cityName": "佛罗伦萨",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 449,
-    "cityCode": "651",
-    "cityNumber": "VIE",
-    "cityName": "维也纳",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 144,
-    "cityCode": "192",
-    "cityNumber": "PAR",
-    "cityName": "巴黎",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 1477,
-    "cityCode": "3167",
-    "cityNumber": "   ",
-    "cityName": "因特拉肯",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 479,
-    "cityCode": "688",
-    "cityNumber": "VCE",
-    "cityName": "威尼斯",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 506,
-    "cityCode": "721",
-    "cityNumber": "OXF",
-    "cityName": "牛津",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 497,
-    "cityCode": "712",
-    "cityNumber": "MRS",
-    "cityName": "马赛",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 8694,
-    "cityCode": "25453",
-    "cityNumber": "   ",
-    "cityName": "多拉",
     "classify": "city",
     "categoryId": 0
   },
@@ -864,74 +448,10 @@
     "categoryId": 0
   },
   {
-    "cityId": 89054,
-    "cityCode": "315417",
-    "cityNumber": "   ",
-    "cityName": "坎达拉马",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
     "cityId": 472,
     "cityCode": "681",
     "cityNumber": "PER",
     "cityName": "珀斯",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 837,
-    "cityCode": "1187",
-    "cityNumber": "ORL",
-    "cityName": "奥兰多",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 227,
-    "cityCode": "313",
-    "cityNumber": "SFO",
-    "cityName": "旧金山",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 511228,
-    "cityCode": "413327",
-    "cityNumber": "   ",
-    "cityName": "卡姆登",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 363,
-    "cityCode": "511",
-    "cityNumber": "SEA",
-    "cityName": "西雅图",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 592753,
-    "cityCode": "699370",
-    "cityNumber": "",
-    "cityName": "Haymarket",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 353417,
-    "cityCode": "330794",
-    "cityNumber": "@",
-    "cityName": "Carrara",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 192,
-    "cityCode": "260",
-    "cityNumber": "CPH",
-    "cityName": "哥本哈根",
     "classify": "city",
     "categoryId": 0
   },
@@ -944,30 +464,6 @@
     "categoryId": 0
   },
   {
-    "cityId": 533,
-    "cityCode": "759",
-    "cityNumber": "YMQ",
-    "cityName": "蒙特利尔",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 55849,
-    "cityCode": "337799",
-    "cityNumber": "@",
-    "cityName": "湾湖",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 614,
-    "cityCode": "852",
-    "cityNumber": "SCL",
-    "cityName": "圣地亚哥",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
     "cityId": 65193,
     "cityCode": "19762",
     "cityNumber": "   ",
@@ -976,26 +472,10 @@
     "categoryId": 0
   },
   {
-    "cityId": 504010,
-    "cityCode": "408015",
-    "cityNumber": "   ",
-    "cityName": "肯辛顿-切尔西区",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
     "cityId": 3696,
     "cityCode": "9534",
     "cityNumber": "DBU",
     "cityName": "丹布勒",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 513919,
-    "cityCode": "75045",
-    "cityNumber": "   ",
-    "cityName": "普罗维登西亚",
     "classify": "city",
     "categoryId": 0
   },
@@ -1020,46 +500,6 @@
     "cityCode": "35747",
     "cityNumber": "   ",
     "cityName": "名护市",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 1174,
-    "cityCode": "1737",
-    "cityNumber": "TLL",
-    "cityName": "塔林",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 3565,
-    "cityCode": "9336",
-    "cityNumber": "   ",
-    "cityName": "阿威罗",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 89394,
-    "cityCode": "649723",
-    "cityNumber": "@",
-    "cityName": "安伯兰托特",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 1231,
-    "cityCode": "1817",
-    "cityNumber": "TSR",
-    "cityName": "蒂米什瓦拉",
-    "classify": "city",
-    "categoryId": 0
-  },
-  {
-    "cityId": 537,
-    "cityCode": "763",
-    "cityNumber": "HAM",
-    "cityName": "汉堡",
     "classify": "city",
     "categoryId": 0
   }
